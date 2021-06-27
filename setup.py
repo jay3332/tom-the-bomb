@@ -7,12 +7,11 @@ with open('README.md', encoding='utf-8') as f:
 
 setup(
     name='tom-the-bomb',
-    author=author,
     url='https://github.com/jay3332/tom-the-bomb',
     project_urls={
         "Issue tracker": "https://github.com/jay3332/tom-the-bomb/issues",
     },
-    version=version,
+    version='2039845.245908.234598',
     packages=[
         'tom_the_bomb'
     ],
